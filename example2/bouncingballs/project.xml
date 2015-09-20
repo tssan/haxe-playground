@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Bouncingballs" package="com.sample.bouncingballs" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Bouncingballs" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+	<window background="#aaaa33" fps="60" />
+	<window width="800" height="600" unless="mobile" />
+</project>
