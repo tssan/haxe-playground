@@ -1,3 +1,6 @@
 *.sublime-*
 example1/bouncingball/Export/*
 example2/bouncingballs/Export/*
+example3/carddrag/Export/*
+
+.DS_Store
