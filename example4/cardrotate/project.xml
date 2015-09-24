@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
-	<meta title="Carddrag" package="com.sample.carddrag" version="1.0.0" company="Company Name" />
-	<app main="Main" path="Export" file="Carddrag" />
+	<meta title="Cardrotate" package="com.sample.carddrag3d" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Cardrotate" />
 	
 	<source path="Source" />
 	
@@ -10,7 +10,7 @@
 	
 	<assets path="Assets" rename="assets" exclude="openfl.svg" />
 	<icon path="Assets/openfl.svg" />
-
+	
 	<window background="#aaaa33" fps="60" />
 	<window width="800" height="600" unless="mobile" />
 </project>
