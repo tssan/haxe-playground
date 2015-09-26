@@ -7,3 +7,4 @@ List of examples:
 2. BouncingBalls - spawning object on `MouseEvent.CLICK`
 3. CardDrag - mouse drag using mouse events
 4. CardRotate - rotate image around it's center & follow mouse cursor
+5. Snapobject - snap object on `MOUSE_UP`
