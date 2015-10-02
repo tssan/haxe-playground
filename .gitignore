@@ -4,5 +4,6 @@ example2/bouncingballs/Export/*
 example3/carddrag/Export/*
 example4/cardrotate/Export/*
 example5/snapobject/Export/*
+example6/cardanimation/Export/*
 
 .DS_Store

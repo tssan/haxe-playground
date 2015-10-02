@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Cardanimation" package="com.sample.cardanimation" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="Cardanimation" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="Assets" rename="assets" exclude="openfl.svg" />
+	<icon path="Assets/openfl.svg" />
+	
+	<window background="#252525" fps="60" />
+	<window width="1280" height="800" unless="mobile" />
+</project>
